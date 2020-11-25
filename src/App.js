@@ -1,7 +1,8 @@
-import Footer from './components/footer'
+import Footer from './components/footer';
 import './App.css';
 import Certification from './components/certification';
-import headshot from './images/headshot.jpg'
+import Projects from './components/projects';
+import headshot from './images/headshot.jpg';
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       </div>
       <div>
         <Certification/>
+        <Projects />
         <Footer/>
       </div>
     </div>

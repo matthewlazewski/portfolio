@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900');
+@import url('https://fonts.googleapis.com/css2?family=Prata&family=Trocchi&display=swap');
+
+html, body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.wrapper {
+  font-family: 'Prata', serif;
+  font-family: 'Trocchi', serif;
+  text-align: center;
+  border-radius: 2px;
+  padding: 1px 20px;
+  background-color: 	#FFF8DC;
+  -moz-box-shadow: 0 0 10px rgba(0,0,0,.3);
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
+  box-shadow: 0 0 10px rgba(0,0,0,.3);
+  margin: auto;
+  width: 85%;
+}

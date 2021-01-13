@@ -6,6 +6,8 @@ const Projects = () => {
         <div>
             <div>
                 <h1 align='center'><b>Projects:</b></h1>
+                <br></br>
+                <br></br>
             </div>
             <div className="projects">
                 <iframe align='center' width='500' height='300' src='https://www.youtube.com/embed/VsTMGpddjSU'  title='Friendhub' /><br></br>
@@ -19,6 +21,7 @@ const Projects = () => {
                 <br></br>
                 <iframe align='center' width='500' height='300' src='https://www.youtube.com/embed/TVdrCuZKz6c' title='OnPar' /><br></br>
                 <a href="https://github.com/matthewlazewski/on-par-project"><GrGithub /> </a>
+                <h4>Built With: </h4>
                 <ul>
                     <li>HTML/CSS</li>
                     <li>Javascript</li>
@@ -27,6 +30,7 @@ const Projects = () => {
                 <br></br>
                 <iframe align='center' width='500' height='300' src='https://www.youtube.com/embed/YE5EvmmH2OU' title='MyWorkoutFinder' /><br></br>
                 <a href="https://github.com/matthewlazewski/my_workout_finder"><GrGithub /> </a>
+                <h4>Built With: </h4>
                 <ul>
                     <li>Ruby on Rails</li>
                     <li>Active Record</li>

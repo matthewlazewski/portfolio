@@ -13,6 +13,8 @@ const Certification = () => {
             </div>
             <div class="certficate">
                 <h1 align='center'><b>Education:</b></h1>
+                <br></br>
+                <br></br>
                 <iframe align='center' width='500' height='300' src={pdf} title='Certificate' />
             </div>
         </div>

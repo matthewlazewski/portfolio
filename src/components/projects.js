@@ -19,6 +19,11 @@ const Projects = () => {
                 <br></br>
                 <iframe align='center' width='500' height='300' src='https://www.youtube.com/embed/TVdrCuZKz6c' title='OnPar' /><br></br>
                 <a href="https://github.com/matthewlazewski/on-par-project"><GrGithub /> </a>
+                <ul>
+                    <li>HTML/CSS</li>
+                    <li>Javascript</li>
+                    <li>Ruby On Rails</li>
+                </ul>
                 <br></br>
                 <iframe align='center' width='500' height='300' src='https://www.youtube.com/embed/YE5EvmmH2OU' title='MyWorkoutFinder' /><br></br>
                 <a href="https://github.com/matthewlazewski/my_workout_finder"><GrGithub /> </a>
